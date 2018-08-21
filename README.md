@@ -7,6 +7,7 @@ Paint pixel project
 * Javascript
 
 ## Deployed link
+holly-pixel-art.surge.sh
 
 ## Screenshot of project
 ![](paint.jpg)
